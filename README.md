@@ -20,3 +20,6 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/cont
      - Screen capture web browser
    - if deploy fail -> capture log on kubernetes and write detail of error.
 3. Don't forget map domain in file hosts.
+
+![Jenkins](jenkins.jpg)
+![Grafana](grafana.png)
