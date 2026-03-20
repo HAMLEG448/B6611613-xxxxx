@@ -23,3 +23,6 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/cont
 
 ![Jenkins](jenkins.png)
 ![Grafana](grafana.png)
+
+(![alt text](image.png))
+(![alt text](image-1.png))
